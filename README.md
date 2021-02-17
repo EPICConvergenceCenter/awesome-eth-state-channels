@@ -6,3 +6,6 @@ Awesome Archive of Ethereum State Channel Approaches
 
 ## HOPR MixNet on xDAI
 - https://www.coindesk.com/hopr-token-incentive-program-mixnet
+
+## xDAI projects
+- https://www.xdaichain.com/about-xdai/project-spotlights
