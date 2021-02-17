@@ -3,6 +3,7 @@ Awesome Archive of Ethereum State Channel Approaches
 
 ## Introduction
 - https://blocking.net/6209/getting-started-with-blockchain-generalized-state-channels-on-ethereum/
+- https://medium.com/blockchannel/counterfactual-for-dummies-part-1-8ff164f78540
 
 ## Token Bridge Approach
 - https://docs.tokenbridge.net/about-tokenbridge/features
